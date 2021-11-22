@@ -1,1 +1,2 @@
-class Programm{}
+class Programm{
+ Console.Write.Line("Hello GitHub");}
