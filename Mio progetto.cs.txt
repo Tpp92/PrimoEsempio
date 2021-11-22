@@ -1,2 +1,3 @@
 class Programm{
- Console.Write.Line("Hello GitHub");}
+ string nome = "Pasquale"
+ Console.Write.Line(nome);}
